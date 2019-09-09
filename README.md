@@ -5,4 +5,7 @@ https://codelab-adapter-docs.codelab.club/
 https://scratch3.codelab.club/  
 ## 乐聚机器人
 https://scratch3beta.lejurobot.com:8601/  
-https://doc.lejurobot.com/
+https://doc.lejurobot.com/  
+## DFRobot
+http://mindplus.cc/  
+[Mind+](http://mindplus.cc/)  
