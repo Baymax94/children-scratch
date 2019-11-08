@@ -11,7 +11,8 @@ http://mindplus.cc/
 [Mind+](http://mindplus.cc/)  
 ## Mixly
 https://github.com/mixly  
-https://gitee.com/mixlyplus
+https://gitee.com/mixlyplus  
+**[Mixly 帮助文档](https://mixly.readthedocs.io/zh_CN/latest/)**
 ## ROS系统  
 http://scratch3-ros.jsk.imi.i.u-tokyo.ac.jp/  
 [使用Scratch2和ROS进行机器人图形化编程学习](https://blog.csdn.net/ZhangRelay/article/details/78857311)  
